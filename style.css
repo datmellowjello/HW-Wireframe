@@ -8,7 +8,8 @@ header {
     text-align: center;
 }
 nav {
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     padding: 20px;
     background: #777;
     color: black;
@@ -28,10 +29,13 @@ body {
 section {
     float: left;
     width: 495px;
+    height: 200px;
     background: #ebebeb;
+
 }
 aside {
     background: #ebebeb;
     float: left;
     margin-left: 20px;
+    width: 440px;
 }
