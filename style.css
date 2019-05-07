@@ -1,0 +1,37 @@
+header {
+    margin-top: 20px;
+    padding: 20px;
+    background: #777;
+    color: black;
+    background-color: #ebebeb;
+    width: 940px;
+    text-align: center;
+}
+nav {
+    margin-top: 20px;
+    padding: 20px;
+    background: #777;
+    color: black;
+    background-color: #ebebeb;
+    width: 940px;
+    text-align: center;
+}
+body {
+    background-color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+    background: #777;
+    color: #777;
+}
+
+section {
+    float: left;
+    width: 495px;
+    background: #ebebeb;
+}
+aside {
+    background: #ebebeb;
+    float: left;
+    margin-left: 20px;
+}
