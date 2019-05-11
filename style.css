@@ -32,28 +32,30 @@ body {
 section {
     float: left;
     width: 495px;
-    height: 250px;
+    height: 275px;
     background: #ebebeb;
     margin-bottom: 20px;
     text-align: center;
     margin-top: 15px;
+    margin-right:0px;
+
 
 }
 aside {
     background: #ebebeb;
-    float: left;
-    margin-left: 15px;
-    margin-top: 15px;
-    width: 450px;
-    height: 250px;
+    float: right;
+    width: 200px;
+    height: 275px;
     text-align: center;
+    margin-top: 15px;
+
 }
 
 article {
     color: #ebebeb;
     background: #777;
     width: 455px;
-    height: 100px;
+    height: 175px;
     margin-left: 10px;
     margin-right: 0px;
     padding: 10px;
